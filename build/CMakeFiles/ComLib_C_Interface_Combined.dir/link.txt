@@ -1,0 +1,1 @@
+/usr/bin/cc -Xlinker --dependency-file=CMakeFiles/ComLib_C_Interface_Combined.dir/link.d CMakeFiles/ComLib_C_Interface_Combined.dir/extract_combined_data.c.o -o extract_data
